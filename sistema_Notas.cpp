@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// Função para validar entrada string (não vazia)
+// FFunção para validar entrada string (não vazia)
 string validarEntradaString(const string &prompt)
 {
   string entrada;
